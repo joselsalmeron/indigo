@@ -53,12 +53,12 @@ medium: medium
 email: salmeron@acm.org
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    joselsalmeron:
+        name: Jose L. Salmeron
+        bio: Professor of Data Science and Big Data / AI / Machine Learning consultant 
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: joselsalmeron
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
